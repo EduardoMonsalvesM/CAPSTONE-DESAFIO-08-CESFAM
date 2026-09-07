@@ -30,10 +30,9 @@ A partir del mapa conceptual y lo que necesitábamos saber antes de la visita en
 ---
 
 ## 3. Mapa de Empatía
-![Mapa de Empatía](imágenes/mapa_empatia.png)
 <div align="center">
-  <img src="imágenes/mapa_de_empatia.png" width="45%" />
-  <img src="imágenes/mapa_de_empatia_limpio.png" width="45%" />
+  <img src="imágenes/mapa_de_empatia.jpg" width="37%" />
+  <img src="imágenes/mapa_de_empatia_limpio.jpg" width="50%" />
 </div>
 
 * **¿A quién empatizamos?:** Personal administrativo del CESFAM Providencia (encargados de las tareas de contacto, coordinación e ingreso de usuarios).
