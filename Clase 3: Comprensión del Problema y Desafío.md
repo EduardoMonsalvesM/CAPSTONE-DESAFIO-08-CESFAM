@@ -1,7 +1,10 @@
 # Clase 03: Comprensión del Problema y Desafío
 
 ## 1. Mapa Conceptual del Desafío
-![Mapa Conceptual](imagenes/mapa_conceptual.png)
+<div align="center">
+  <img src="imágenes/mapa_conceptual.jpg" width="37%" />
+  <img src="imágenes/mapa_conceptual_limpio.jpg" width="50%" />
+</div>
 
 * **Problema Central:** Reagendamiento, inasistencias y gestión de citas médicas en el CESFAM Providencia.
 * **Actores:** Pacientes (foco en adultos mayores y de alto riesgo), personal administrativo, médicos/profesionales tratantes, CESFAM y gestión municipal.
