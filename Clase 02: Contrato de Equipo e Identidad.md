@@ -3,10 +3,10 @@
 ## 1. Identidad del Equipo
 * **Nombre del Equipo:** [Nombre]
 * **Integrantes y Roles:**
-  * **[Nombre Integrante 1]:** Coordinador/a
-  * **[Nombre Integrante 2]:** Crónica y Bitácora GitHub
-  * **[Nombre Integrante 3]:** Edición y Calidad
-  * **[Nombre Integrante 4]:** Facilitador/a y Vínculo Comunitario
+  * **[Nombre Integrante 1]:** 
+  * **[Nombre Integrante 2]:** 
+  * **[Nombre Integrante 3]:** 
+  * **[Nombre Integrante 4]:**
 * **Foto del Equipo:**
   ![Foto del Equipo](imágenes/foto_equipo.jpg)
 
