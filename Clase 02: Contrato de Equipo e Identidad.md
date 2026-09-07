@@ -11,7 +11,7 @@
   * **Vania Cuicui**
 
 * **Foto del Equipo:**
-<img src="imágenes/foto_equipo.jpg" width="50%">
+<img src="imagenes/foto_equipo.jpg" width="50%">
 
 ## 2. Valores y Normas de Convivencia
 * **Valores Principales:** 
