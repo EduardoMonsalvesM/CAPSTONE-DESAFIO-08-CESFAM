@@ -30,7 +30,11 @@ A partir del mapa conceptual y lo que necesitábamos saber antes de la visita en
 ---
 
 ## 3. Mapa de Empatía
-![Mapa de Empatía](imagenes/mapa_empatia.png)
+![Mapa de Empatía](imágenes/mapa_empatia.png)
+<div align="center">
+  <img src="imágenes/mapa_empatia.png" width="45%" />
+  <img src="imágenes/mapa_empatia_limpio.png" width="45%" />
+</div>
 
 * **¿A quién empatizamos?:** Personal administrativo del CESFAM Providencia (encargados de las tareas de contacto, coordinación e ingreso de usuarios).
 * **¿Qué piensa y siente?:** Siente presión cuando se acumulan tareas manuales. Le preocupa cometer errores al derivar o coordinar horas. Se frustra cuando los pacientes faltan sin avisar, pero piensa que su trabajo podría ser más eficiente con la tecnología adecuada.
