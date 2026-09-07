@@ -8,7 +8,7 @@
   * **[Nombre Integrante 3]:** Edición y Calidad
   * **[Nombre Integrante 4]:** Facilitador/a y Vínculo Comunitario
 * **Foto del Equipo:**
-  ![Foto del Equipo](imagenes/foto_equipo.jpg)
+  ![Foto del Equipo](imágenes/foto_equipo.jpg)
 
 ## 2. Valores y Normas de Convivencia
 * **Valores Principales:** [Puntualidad, Compromiso, Trabajo Colaborativo]
