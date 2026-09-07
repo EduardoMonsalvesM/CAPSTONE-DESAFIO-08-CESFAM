@@ -2,8 +2,8 @@
 
 ## 1. Mapa Conceptual del Desafío
 <div align="center">
-  <img src="imágenes/mapa_conceptual.jpg" width="37%" />
-  <img src="imágenes/mapa_conceptual_limpio.jpg" width="50%" />
+  <img src="imagenes/mapa_conceptual.jpg" width="37%" />
+  <img src="imagenes/mapa_conceptual_limpio.jpg" width="50%" />
 </div>
 
 * **Problema Central:** Reagendamiento, inasistencias y gestión de citas médicas en el CESFAM Providencia.
@@ -34,8 +34,8 @@ A partir del mapa conceptual y lo que necesitábamos saber antes de la visita en
 
 ## 3. Mapa de Empatía
 <div align="center">
-  <img src="imágenes/mapa_de_empatia.jpg" width="37%" />
-  <img src="imágenes/mapa_de_empatia_limpio.jpg" width="50%" />
+  <img src="imagenes/mapa_de_empatia.jpg" width="37%" />
+  <img src="imagenes/mapa_de_empatia_limpio.jpg" width="50%" />
 </div>
 
 * **¿A quién empatizamos?:** Personal administrativo del CESFAM Providencia (encargados de las tareas de contacto, coordinación e ingreso de usuarios).
