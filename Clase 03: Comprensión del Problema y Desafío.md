@@ -64,8 +64,8 @@ A partir del mapa conceptual y lo que necesitábamos saber antes de la visita en
 * **Lugar:** CESFAM Providencia.
 * **Documento de Entrevista:** *(Consultar PDF subido al repositorio: `Preguntas administración CESFAM.pdf`)*.
 
-### Registro Fotográfico de la Investigación:
-![Registro Visita CESFAM](imagenes/evidencia_cesfam.jpg)
+### Centro de Salud Familiar Dr. Alfonso Leng:
+<img src="imagenes/Centro de Salud Familiar Dr Alfonso Leng.png" width="50%" />
 
 ### Resumen de Respuestas Clave del Personal:
 1. **Procedimiento de Reagendamiento:** Existen 3 vías (presencial, web y telefónica). Si es adulto mayor, el personal lo gestiona directamente.
