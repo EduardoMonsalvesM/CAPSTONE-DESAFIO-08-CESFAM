@@ -31,7 +31,7 @@ El **CESFAM Providencia** enfrenta retos operacionales en la gestión de agendam
 
 ---
 
-## 👥 Equipo de Trabajo — *InnovaSalud Providencia*
+## 👥 Equipo de Trabajo — *[NOMBRE GRUPO]*
 
 <div align="center">
 
