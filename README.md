@@ -38,11 +38,11 @@ El **CESFAM Providencia** enfrenta retos operacionales en la gestión de agendam
 | Integrante | Rol en el Proyecto | Compromiso SMART |
 | :--- | :--- | :--- |
 | **Eduardo Monsalves** | Coordinador General | Supervisar el avance semanal y asegurar el 100% de entregas a tiempo en GitHub. |
-| **Oscar Díaz** | --- | --- |
+| **Vania Cuicui** | --- | --- |
 | **Daniela Pizarro** | --- | --- |
 | **María Bustamante** | --- | --- |
 | **Ian Olivares** | --- | --- |
-| **Vania Cuicui** | --- | --- |
+| **Oscar Díaz** | --- | --- |
 
 </div>
 
