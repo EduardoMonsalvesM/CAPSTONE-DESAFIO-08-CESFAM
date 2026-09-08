@@ -4,11 +4,11 @@
 * **Nombre del Equipo:** GRUPO 1 - InnovaSalud - Citas Providencia
 * **Integrantes**
   * **Eduardo Monsalves**
-  * **Oscar Díaz**
+  * **Vania Cuicui**
   * **Daniela Pizarro**
   * **María Bustamante**
   * **Ian Olivares** 
-  * **Vania Cuicui**
+  * **Oscar Díaz**
 
 * **Foto del Equipo:**
 <img src="imagenes/foto_equipo.jpg" width="50%">
@@ -33,12 +33,11 @@
 
 ### Compromisos SMART Individuales
 * **Eduardo Monsalves (Líder):** "Me comprometo a revisar el avance semanal del equipo, coordinar la asignación de tareas en cada hito y asegurar que el 100% de los entregables se suban a GitHub antes de la fecha límite establecida por la asignatura."
-* **Oscar Díaz:** ""
-* **Daniela Pizarro:** ""
-* **María Bustamante:** ""
-* **Ian Olivares:** ""
-* **Vania Cuicui:** ""
-
+* **Vania Cuicui:** "Me comprometo a ser responsable y colaborar activamente en el proceso de nuestro proyecto."
+* **Daniela Pizarro:** "Me comprometo garantizando la ortografía, redacción y formato de documentos y escritos a entregar, realizando revisión constantes antes de cada fecha límite."
+* **María Bustamante:** "Me comprometo a dar lo mejor de mí, aportar desde mis conocimientos y habilidades, apoyar a mis compañeros y cumplir oportunamente con las tareas que acordemos, contribuyendo al avance y logro de los objetivos del equipo."
+* **Ian Olivares:** "---"
+* **Oscar Díaz:** "---"
 ---
 
 ## 4. Minuta de Reunión N° 1
