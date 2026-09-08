@@ -36,7 +36,7 @@
 * **Vania Cuicui:** "Me comprometo a ser responsable y colaborar activamente en el proceso de nuestro proyecto."
 * **Daniela Pizarro:** "Me comprometo garantizando la ortografía, redacción y formato de documentos y escritos a entregar, realizando revisión constantes antes de cada fecha límite."
 * **María Bustamante:** "Me comprometo a dar lo mejor de mí, aportar desde mis conocimientos y habilidades, apoyar a mis compañeros y cumplir oportunamente con las tareas que acordemos, contribuyendo al avance y logro de los objetivos del equipo."
-* **Ian Olivares:** "---"
+* **Ian Olivares:** "Analizar los datos relacionados con el proceso de agendamiento y reagendamiento, identificando las principales causas de pérdida de tiempo y presentando los resultados mediante indicadores o gráficos dentro de los plazos definidos por el equipo"
 * **Oscar Díaz:** "---"
 ---
 
