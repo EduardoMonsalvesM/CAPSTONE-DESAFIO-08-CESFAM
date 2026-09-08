@@ -37,12 +37,12 @@ El **CESFAM Providencia** enfrenta retos operacionales en la gestión de agendam
 
 | Integrante | Rol en el Proyecto | Compromiso SMART |
 | :--- | :--- | :--- |
-| **Eduardo Monsalves** | 👑 Coordinador General & Líder | Supervisar el avance semanal y asegurar el 100% de entregas a tiempo en GitHub. |
-| **Oscar Díaz** | 📝 Crónica & Gestor GitHub | Mantener la bitácora al día y formateada en Markdown tras cada sesión. |
-| **Daniela Pizarro** | 🔍 Edición & Control de Calidad | Revisar la redacción, coherencia y estándar de calidad de informes y entregables. |
-| **María Bustamante** | 🤝 Facilitadora & Vínculo Comunitario | Canalizar requerimientos y la comunicación directa con el personal del CESFAM. |
-| **Ian Olivares** | ⚙️ Analista de Procesos & Flujos | Diseñar los diagramas de flujos del proceso actual y levantamiento de requerimientos. |
-| **Vania Cuicui** | 🎨 Diseñadora UX / Empatía | Liderar mapas de empatía, perfilamiento de usuarios y apoyo en diseño del Pitch. |
+| **Eduardo Monsalves** | Coordinador General | Supervisar el avance semanal y asegurar el 100% de entregas a tiempo en GitHub. |
+| **Oscar Díaz** | --- | --- |
+| **Daniela Pizarro** | --- | --- |
+| **María Bustamante** | --- | --- |
+| **Ian Olivares** | --- | --- |
+| **Vania Cuicui** | --- | --- |
 
 </div>
 
@@ -65,7 +65,3 @@ A continuación se explica de forma general la navegación por el contenido de e
 ├── README.md                           # Portada principal y presentación del proyecto
 ├── anexos/                             # Documentos relevantes
 └── imagenes/                           # Registros fotográficos y diagramas
- 
-
-
- 
