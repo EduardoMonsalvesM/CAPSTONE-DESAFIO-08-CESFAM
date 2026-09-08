@@ -80,11 +80,11 @@ A partir del mapa conceptual y lo que necesitábamos saber antes de la visita en
 
 ### Estrategia de Presentación (Pitch):
 * **Enfoque:** La presentación oral se centrará 100% en la **comprensión del problema**, validación de supuestos y contexto del CESFAM Providencia (sin presentar la solución técnica aún).
-* **Distribución del Tiempo y Voces:**
-  * **Introducción y Contexto (Eduardo):** Presentación del desafío y contexto de atención en el CESFAM Providencia.
-  * **Problema y Mapeo (Ian y Vania):** Explicación del flujo actual, mapa conceptual y mapa de empatía del personal administrativo.
-  * **Hallazgos en Terreno (María y Daniela):** Exposición de la entrevista del viernes 4 de septiembre, contrastando los supuestos iniciales con la realidad (hallazgo del 60-70% de carga en recepción).
-  * **Cierre y Oportunidades (Oscar):** Síntesis de las necesidades no resueltas (tótems de llegada y filtro inteligente de citas) para dar paso a la fase de ideación.
+* **Distribución del Tiempo:**
+  * **Introducción y Contexto:** Presentación del desafío y contexto de atención en el CESFAM Providencia.
+  * **Problema y Mapeo:** Explicación del flujo actual, mapa conceptual y mapa de empatía del personal administrativo.
+  * **Hallazgos en Terreno:** Exposición de la entrevista del viernes 4 de septiembre, contrastando los supuestos iniciales con la realidad (hallazgo del 60-70% de carga en recepción).
+  * **Cierre y Oportunidades:** Síntesis de las necesidades no resueltas (tótems de llegada y filtro inteligente de citas) para dar paso a la fase de ideación.
 
 ### Reflexión del Equipo:
 A través del ejercicio de empatía y la entrevista en terreno, comprendimos que resolver el desafío no implica simplemente crear una app de reagendamiento desde cero, sino **integrar de forma inteligente los sistemas que el CESFAM ya posee** (WhatsApp, web) con la recepción presencial (tótems) para atacar la verdadera sobrecarga administrativa y el ausentismo de pacientes.
