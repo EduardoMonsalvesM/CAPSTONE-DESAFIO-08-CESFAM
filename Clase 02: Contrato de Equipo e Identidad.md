@@ -1,7 +1,7 @@
 # Clase 02: Contrato de Equipo e Identidad
 
 ## 1. Identidad del Equipo
-* **Nombre del Equipo:** GRUPO 1 - InnovaSalud - Citas Providencia
+* **Nombre del Equipo:** GRUPO 1 - [NOMBRE GRUPO] - Citas Providencia
 * **Integrantes**
   * **Eduardo Monsalves**
   * **Vania Cuicui**
