@@ -11,7 +11,7 @@
 ![Estado](https://img.shields.io/badge/Estado-Hito_1_En_Proceso-green?style=for-the-badge)
 
 <p align="center">
-  <b>Unidad 1: Empatizar y Definir</b><br>
+  <b>Unidad 1 (Hito 1): Empatizar y Definir</b><br>
   Plataforma y bitácora digital para el desarrollo del proyecto de ingeniería enfocado en la atención primaria de salud pública.
 </p>
 
