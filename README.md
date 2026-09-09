@@ -51,7 +51,7 @@ El **CESFAM Providencia** enfrenta retos operacionales en la gestión de agendam
 <div align="center">
   <img src="imagenes/foto_equipo.jpg" width="70%" alt="Fotografía del Equipo InnovaSalud" style="border-radius: 10px; border: 1px solid #ddd;"/>
   <br>
-  <i>Figura 1: Equipo de Trabajo InnovaSalud - Semestre Primavera 2026.</i>
+  <i>Figura 1: Equipo de Trabajo - Semestre Primavera 2026.</i>
 </div>
 
 ---
