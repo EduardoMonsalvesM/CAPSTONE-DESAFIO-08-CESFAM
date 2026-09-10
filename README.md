@@ -42,7 +42,7 @@ El **CESFAM Providencia** enfrenta retos operacionales en la gestión de agendam
 | **Daniela Pizarro** | Encargada de Calidad | Entregar documentos impecables mediante revisiones constantes antes de cada fecha límite. |
 | **María Bustamante** | Enlace de Equipo | Aportar habilidades, apoyar al equipo y cumplir oportunamente para alcanzar los objetivos comunes |
 | **Ian Olivares** | Analista de Datos | Analizar y graficar las pdatos, entregando los indicadores en el plazo fijado por el equipo. |
-| **Oscar Díaz** | Colaborador de Apoyo | No se compromete. |
+| **Oscar Díaz** | Colaborador de Apoyo | Aportar al menos una idea o comentario en cada reunión semanal de equipo. |
 
 </div>
 
