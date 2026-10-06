@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Resumen de la Jornada
-Durante esta sesión correspondía realizar la presentación oral (Pitch) del **Hito 1: Comprensión y Definición del Problema**. En esta exposición explicamos el diagnóstico operativo realizado sobre el ausentismo de citas médicas en el CESFAM Providencia.
+Durante esta sesión correspondía realizar la presentación oral (Pitch) del **Hito 1: Comprensión y Definición del Problema**. En esta exposición explicamos el diagnóstico operativo realizado sobre el ausentismo de citas médicas en la Atención Primaria de Salud (APS) en el CESFAM Providencia.
 
 Expusimos ante la docente y compañeros los hallazgos clave levantados durante la fase de empatía y observación, detallando cómo los cuellos de botella en la atención presencial, telefónica y la gestión manual de WhatsApp provocan una pérdida de horas médicas.
 
