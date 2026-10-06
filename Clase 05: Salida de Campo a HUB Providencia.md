@@ -42,9 +42,9 @@ La visita al HUB Providencia nos confirmó que la brecha no es la falta de canal
 
 ## 📸 Evidencia Fotográfica (Galería HUB Providencia)
 
-> *Fotografías registradas durante la jornada de trabajo, entrevistas y recorrido en las instalaciones del HUB Providencia.*
+> *Fotografías registradas durante la jornada de trabajo y recorrido en las instalaciones del HUB Providencia.*
 
-
+<img src="imagenes/fotos_hub_providencia.png"/>
 
 ---
 
