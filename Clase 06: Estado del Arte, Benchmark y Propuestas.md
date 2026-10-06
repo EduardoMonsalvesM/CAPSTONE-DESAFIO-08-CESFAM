@@ -42,7 +42,7 @@ Para la evaluación comparativa, se seleccionaron 4 atributos conceptuales clave
    * La **Autonomía e Inmediatez en Dispositivo Móvil con Baja Barrera de Entrada**: Dado el perfil distinto entre los usuarios de la APS (incluyendo adultos mayores), la solución debe permitir la gestión de la cita en pocos pasos sin requerir descargas de aplicaciones ni claves complejas.
 
 3. **¿Dónde hay oportunidades para mejorar o innovar en nuestra propuesta?**
-   * Existe la oportunidad de innovar mediante un **Agente/Bot Automatizado en WhatsApp desacoplado**: Un flujo conversacional simple que procese en tiempo real la confirmación, cancelación y reagendamiento, alimentando una base de datos ligera para liberar la hora de forma inmediata.
+   * Existe la oportunidad de innovar mediante un **Agente/Bot Automatizado en WhatsApp desacoplado**: Un flujo conversacional simple que procese en tiempo real la confirmación, cancelación y reagendamiento, alimentando una base de datos ligera para liberar la hora de forma inmediata. Aunque no es la única opción.
 
 ---
 
