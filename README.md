@@ -8,7 +8,7 @@
 ![Carrera](https://img.shields.io/badge/Carrera-Ingeniería_Civil_Electrónica-darkblue?style=for-the-badge)
 ![Carrera](https://img.shields.io/badge/Carrera-Ingeniería_Civil_Industrial-darkblue?style=for-the-badge)
 ![Semestre](https://img.shields.io/badge/Semestre-Primavera_2026-orange?style=for-the-badge)
-![Estado](https://img.shields.io/badge/Estado-Hito_1_En_Proceso-green?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-Hito_2_En_Proceso-green?style=for-the-badge)
 
 <p align="center">
   <b>Unidad 1 (Hito 1): Empatizar y Definir</b><br>
