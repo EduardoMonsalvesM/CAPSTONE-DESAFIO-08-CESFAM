@@ -50,21 +50,17 @@ Para la evaluación comparativa, se seleccionaron 4 atributos conceptuales clave
 
 Con base en los hallazgos del Estado del Arte, del Benchmark y los datos recopilados en la entrevista en HUB Providencia, se realizó la lluvia de ideas orientada a soluciones desacopladas de baja barrera de entrada para los usuarios de la APS. A partir de esto, se formalizan **3 propuestas de solución conceptual**:
 
-### Propuesta Conceptual 1: Sistema de Lista de Espera Dinámico ("Reagendamiento Exprés")
-* **Descripción:** Solución digital (vía WhatsApp o SMS) que, ante la cancelación confirmada de una cita médica por parte de un paciente, notifica automáticamente en cascada a los usuarios registrados en una lista de espera prioritaria. El primer usuario en responder o confirmar aceptando la cita obtiene la reasignación inmediata del cupo liberado, actualizando la agenda en tiempo real.
-* **Atributos Clave:** Automatización en tiempo real, maximización del uso de la agenda médica y reducción de la lista de espera.
-* **Viabilidad:** Requiere un motor lógico de notificaciones en cascada (webhook/bot) conectado a un registro desacoplado de usuarios en espera.
+1. Propuesta Conceptual 1: Sistema de Lista de Espera Dinámico ("Reagendamiento Exprés")
+   * Descripción:** Solución digital (vía WhatsApp o SMS) que, ante la cancelación confirmada de una cita médica por parte de un paciente, notifica automáticamente en cascada a los usuarios registrados en una lista de espera prioritaria. El primer usuario en responder o confirmar aceptando la cita obtiene la reasignación inmediata del cupo liberado, actualizando la agenda en tiempo real.
+   * Atributos Clave:** Automatización en tiempo real, maximización del uso de la agenda médica y reducción de la lista de espera.
+   * Viabilidad:** Requiere un motor lógico de notificaciones en cascada (webhook/bot) conectado a un registro desacoplado de usuarios en espera.
 
----
+2. Propuesta Conceptual 2: Agente Conversacional Asistido por WhatsApp para Auto-Gestión 24/7
+   * Descripción:** Bot interactivo en WhatsApp que actúa como canal directo entre el paciente y el CESFAM. Envía recordatorios automatizados previas a las citas médicas con botones de interacción rápida (*"Confirmar"*, *"Cancelar"*, *"Reagendar"*). En caso de cancelación o reagendamiento, guía al usuario en un flujo conversacional simple de 2 a 3 pasos para elegir un nuevo bloque disponible sin necesidad de llamar por teléfono ni acudir al centro de salud.
+   * Atributos Clave:** Alta accesibilidad, sin barreras de descarga/contraseñas y eliminación del cuello de botella en la recepción telefónica/presencial.
+   * Viabilidad:** Implementable mediante la API de WhatsApp Business / Meta Cloud API con una base de datos ligera (ej. PostgreSQL/Firebase) para prototipar la agenda.
 
-### Propuesta Conceptual 2: Agente Conversacional Asistido por WhatsApp para Auto-Gestión 24/7
-* **Descripción:** Bot interactivo en WhatsApp que actúa como canal directo entre el paciente y el CESFAM. Envía recordatorios automatizados previas a las citas médicas con botones de interacción rápida (*"Confirmar"*, *"Cancelar"*, *"Reagendar"*). En caso de cancelación o reagendamiento, guía al usuario en un flujo conversacional simple de 2 a 3 pasos para elegir un nuevo bloque disponible sin necesidad de llamar por teléfono ni acudir al centro de salud.
-* **Atributos Clave:** Alta accesibilidad, sin barreras de descarga/contraseñas y eliminación del cuello de botella en la recepción telefónica/presencial.
-* **Viabilidad:** Implementable mediante la API de WhatsApp Business / Meta Cloud API con una base de datos ligera (ej. PostgreSQL/Firebase) para prototipar la agenda.
-
----
-
-### Propuesta Conceptual 3: Portal Web Ligero de Reagendamiento Desacoplado vía QR / Enlace Corto
-* **Descripción:** Enlace o código QR enviado mediante mensaje de texto o ficha impresa al momento del agendamiento presencial que redirige a una Web-App ultraligera (optimizada para dispositivos móviles sin requerir inicio de sesión ni ClaveÚnica). El usuario ingresa su RUT y accede directamente a un panel intuitivo para liberar o reprogramar su hora médica con confirmación instantánea.
-* **Atributos Clave:** Alta facilidad de uso para usuarios con limitaciones digitales, interfaz limpia y operación independiente del ERP institucional Rayen Salud.
-* **Viabilidad:** Desarrollo Frontend ligero (React/HTML5) respaldado por una arquitectura de microservicios sin costo de licencias.
+3. Propuesta Conceptual 3: Portal Web Ligero de Reagendamiento Desacoplado vía QR / Enlace Corto
+   * Descripción:** Enlace o código QR enviado mediante mensaje de texto o ficha impresa al momento del agendamiento presencial que redirige a una Web-App ultraligera (optimizada para dispositivos móviles sin requerir inicio de sesión ni ClaveÚnica). El usuario ingresa su RUT y accede directamente a un panel intuitivo para liberar o reprogramar su hora médica con confirmación instantánea.
+   * Atributos Clave:** Alta facilidad de uso para usuarios con limitaciones digitales, interfaz limpia y operación independiente del ERP institucional Rayen Salud.
+   * Viabilidad:** Desarrollo Frontend ligero (React/HTML5) respaldado por una arquitectura de microservicios sin costo de licencias.
